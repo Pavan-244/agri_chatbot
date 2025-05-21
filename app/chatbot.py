@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def ask_chatgpt(prompt):
     """Send a prompt to ChatGPT and return the reply."""
